@@ -21,36 +21,32 @@ h1 {
 
 /* YOUR STYLES */
 
-main
-{
-	border: 2px solid black;
+main{
 	background-color: lightgray;
 	display: flex;
+	border: 2px solid black;
 }
 
-.red-paint
-{
-	border: 2px solid black;
+.red-paint{
 	height: 300px;
 	width: 302.666px;
 	background-color: red;
 	margin: 10px 0px 10px 10px;
+	border: 2px solid black;
 }
 
-.blue-paint
-{
-	border: 2px solid black;
+.blue-paint{
 	height: 300px;
 	width: 302.666px;
 	background-color: blue;
 	margin: 10px 10px 10px 10px;
+	border: 2px solid black;
 }
 
-.yellow-paint
-{
-	border: 2px solid black;
+.yellow-paint{
 	height: 300px;
 	width: 302.666px;
 	background-color: yellow;
 	margin: 10px 10px 10px 0px;
+	border: 2px solid black;
 }
