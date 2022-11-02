@@ -65,7 +65,7 @@ WARNING: file-wrap affect a flex diaplay area. Withour the display: flex;
 ***********/
 
 main{
-    background-color: lightcyan;
+    background-color: lightgray;
     display: flex;
     flex-wrap: wrap;
 }

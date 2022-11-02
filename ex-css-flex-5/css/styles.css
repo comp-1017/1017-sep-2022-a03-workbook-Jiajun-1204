@@ -21,3 +21,14 @@ h1 {
 
 /* YOUR STYLES */
 
+main{
+    margin: 2px solid black;
+    background-color: #777;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.top-left{
+    background-color: lightblue;
+    
+}
