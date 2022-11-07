@@ -63,10 +63,7 @@ WARNING: file-wrap affect a flex diaplay area. Withour the display: flex;
         rule, flex-wrap is meaningless.
 
 ***********/
-<<<<<<< HEAD
-=======
 
->>>>>>> 2e08c15341a71ca226291cd87468cfbdb664a425
 main{
     background-color: lightgray;
     display: flex;
@@ -119,11 +116,8 @@ page = lm + lb + lp + content + rp + rb + rm + remainder
 ********************************************************/
 
 .black-paint{
-<<<<<<< HEAD
     height: 50px;
-=======
     height:50px;
->>>>>>> 2e08c15341a71ca226291cd87468cfbdb664a425
     width: 900px;
     background-color: black;
     margin: 30px 0px 30px 30px;
