@@ -1,0 +1,64 @@
+body {
+	background-color: white;
+}
+
+.container {
+	margin: 0 auto;
+	width: 960px;
+	font-size: 100%;
+	line-height: 1.5;
+}
+
+/******
+margin and padding is top right bottom left
+*****/
+
+main{
+	background-color: lightgray;
+	display: flex;
+	flex-wrap: wrap;
+	border: 2px solid black;
+}
+
+.asidezise{
+	margin: 10px 0px 10px 10px;
+	width: 150px;
+	height: 600px;
+	border: 2px solid black;
+}
+
+/**************
+criteria
+
+960 = column 1 + column 2 + right margin/main borders
+960 = (10 + 2 + 0 + 150 + 0 + 2 + 0) + (10 + 2 + 0 + conetnt + 0 +2 +0) + 14
+960 = 192 + content
+768 = content
+
+aisde is 600px
+
+600 = 2(tb + tp + content + bp + bb) + VM
+600 = 2(2 + 0 + content + 0 + 2) + 10
+600 = 18 + 2*content
+291 = content
+
+*************/
+
+.contentsize{
+	margin: 10px 0px 10px 10px;
+	width: 768px;
+	height: 291px;
+	border: 2px solid black;
+}
+
+.red-paint{
+	background-color: red;
+}
+
+.blue-paint{
+	background-color: blue;
+}
+
+.green-paint{
+	background-color: green;
+}

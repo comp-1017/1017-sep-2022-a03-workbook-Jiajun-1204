@@ -29,7 +29,7 @@ main{
     display: flex;
 }
 
-.red-point{
+.red-paint{
 	border: 2px solid black;
 	height: 200px;
 	width: 200px;
@@ -37,7 +37,7 @@ main{
 	margin: 10px 0px 10px 10px;
 }
 
-.blue-point{
+.blue-paint{
 	border: 2px solid black;
 	height: 200px;
 	width: 200px;
@@ -45,7 +45,7 @@ main{
 	margin: 10px 10px 10px 10px;
 }
 
-.yellow-point{
+.yellow-paint{
 	border: 2px solid black;
 	height: 200px;
 	width: 200px;

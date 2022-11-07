@@ -78,12 +78,12 @@ margin: 30px
 padding and border = 0
 page width is 960;
 
-page-width = (box) + (box) + ... + remainder
+page width = (box) + (box) + ... + remainder
 
 ourboxes are of an equal size
 
-page-width = n* (box) + remainder
-960 = 2 *1(m + 1b + 1p + content + rp + rb + rm) = remainder
+page width = n* (box) + remainder
+960 = 2 *(1m + 1b + 1p + content + rp + rb + rm) + remainder
 960 = 2 (30 + 0 + 0 + content + 0 + 0 + 0) + 30
 960 = 60 + 30 + 2content
 960 - 90 = 2content
