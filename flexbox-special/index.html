@@ -12,12 +12,19 @@
 <body>
     <div class="container">
         <header>
-            <h1>Flexbox 2 column</h1>
+            <h1>Flexbox 2 Column</h1>
         </header>
         <main>
-            <div class="asidezise red-paint"></div>
-            <div class="blue-paint contentsize"></div>
-            <div class="green-paint contentsize"></div>
+            <!--column one-->
+            <div class="asideSize red-paint"></div>
+            <!--column two-->
+            <div>
+                <!--the items within this div are NOT immidiately use main
+                the items within this div are immidiately under the div 
+                these items are NOT affected by the main flexbox therefore these items are by default "stacked"-->
+                <div class="contentSize blue-paint"></div>
+                <div class="contentSize green-paint"></div>
+            </div>
         </main>
     </div>
 </body>
