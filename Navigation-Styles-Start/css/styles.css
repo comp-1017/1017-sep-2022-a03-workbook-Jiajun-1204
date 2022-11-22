@@ -1,0 +1,27 @@
+body {
+	background-color: white;
+	text-align: center;
+}
+ 
+.container {
+	margin:0 auto;
+	width:960px;
+	font-size: 100%;
+	line-height: 1.2;
+}
+
+/*  COLOUR PALETTE 
+
+Create a colour palette by using the 
+Eyedropper [I] and the Type Tool [T]
+in Photoshop and copying the hex codes
+from the Colour Picker or Colour Panel.
+
+Dark Grey BG       #xxxxxx;
+Light Grey Border  #xxxxxx;
+Yellow Hyperlinks  #xxxxxx;
+Off-White Text     #xxxxxx;
+Footer Text        #xxxxxx;
+
+*/
+
