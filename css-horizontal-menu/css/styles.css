@@ -137,7 +137,10 @@ header nav a:hover{
 								have the browser handle the tag as a "block" */
 }
 
-/* draw attention to the link  */
+/*draw attention to the link when you hover over it*/
 .banner a:hover{
-	padding: 9px 33px 9px 43px;
+	padding: 9px 38px 9px 38px;
+	font-weight: bold;
+	background-color: azure;
+	/* font-size: larger; */
 }
